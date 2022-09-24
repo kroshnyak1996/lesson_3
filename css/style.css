@@ -1,0 +1,11 @@
+#first{color: red;}
+#second{color: blue;}
+#third{color: brown;}
+p{color: red;}
+footer{color: maroon;}
+.text{color: green;}
+.text p{color: gold;}
+*.text{color: darkmagenta;}
+li{color: dodgerblue;}
+.text>p{color: black;}
+.text p{color: orangered;}
